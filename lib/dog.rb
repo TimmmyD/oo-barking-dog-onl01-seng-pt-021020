@@ -1,5 +1,6 @@
 class Dog 
   def name=(skippy)
+    skippy = Dog.new 
     @name = skippy
   end 
   
