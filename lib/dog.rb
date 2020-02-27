@@ -3,7 +3,7 @@ class Dog
     @name = skippy
   end 
   
-  def .name
+  def name
     @name 
   end
   
